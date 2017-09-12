@@ -1,5 +1,6 @@
 /**
  * Created by owen on 2017/6/25.
+ * 二叉树结点
  */
 public final class BinaryTreeNode {
     int value;

@@ -1,5 +1,6 @@
 /**
  * Created by owen on 2017/6/30.
+ * 带有指向父结点引用的二叉树结点
  */
 public final class PBinaryTreeNode {
     PBinaryTreeNode left;
